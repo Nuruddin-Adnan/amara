@@ -179,6 +179,14 @@ section {
 
 /*===###################### responsive css start ######################=== */
 @media(max-width: 767px){
+  .navbar .navbar-brand{
+    max-width: 150px;
+  }
+  
+  .navbar .phone-call {
+    font-size: 22px;
+  }
+  
   .banner h1 {
     font-size: 50px;
   }
